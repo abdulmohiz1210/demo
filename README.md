@@ -1,4 +1,4 @@
 # demo
 this is my first repository
 <br>
-Author: Abdul Mohiz
+Author: Abdul Mohiz(MCS)
